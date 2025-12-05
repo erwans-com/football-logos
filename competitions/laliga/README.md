@@ -2,7 +2,7 @@
 
 This folder contains a preview sheet of **LaLiga club crests** from the current season.
 
-![{LaLiga} club logo sheet](https://github.com/user-attachments/assets/4b466590-bd10-45c9-ad68-77a552b4c8a9)
+![{LaLiga} club logo sheet](laliga-footylogos.jpg)
 
 For individual PNG/SVG files with transparent backgrounds, browse the full competition page on FootyLogos:
 
