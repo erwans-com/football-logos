@@ -101,6 +101,8 @@ This GitHub repository only contains a few **preview sheets** – custom images 
 - Browse all **MLS logos** on FootyLogos:  
   https://www.footylogos.com/competition/mls
 
+  FootyLogos also covers 70+ other national leagues worldwide – full index on: https://www.footylogos.com/competitions
+
 
 ---
 
