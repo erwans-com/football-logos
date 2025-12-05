@@ -2,8 +2,7 @@
 
 This folder contains a preview sheet of **Eredivisie club crests** from the current season.
 
-![{Eredivisie} club logo sheet](https://github.com/erwans-com/football-logos/blob/main/competitions/eredivisie/eredivisie-footylogos.jpg?raw=true
-)
+![{Eredivisie} club logo sheet](eredivisie-footylogos.jpg)
 
 For individual PNG/SVG files with transparent backgrounds, browse the full competition page on FootyLogos:
 
