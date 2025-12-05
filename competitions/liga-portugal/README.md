@@ -1,4 +1,3 @@
-https://github.com/erwans-com/football-logos/blob/main/competitions/liga-portugal/liga-portugal-footylogos.jpg?raw=true
 # Liga Portugal football logos – FootyLogos.com sample
 
 This folder contains a preview sheet of **Liga Portugal club crests** from the current season.
