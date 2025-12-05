@@ -1,1 +1,9 @@
+# Major League Soccer - USA football logos – FootyLogos.com sample
 
+This folder contains a preview sheet of **MLS club crests** from the current season.
+
+![{MLS} club logo sheet](https://github.com/erwans-com/football-logos/blob/main/competitions/mls/mls-footylogos.jpg?raw=true)
+
+For individual PNG/SVG files with transparent backgrounds, browse the full competition page on FootyLogos:
+
+👉 https://www.footylogos.com/competition/mls
